@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+matplotlib
+audio-recorder-streamlit
+librosa
+soundfile
